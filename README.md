@@ -4,7 +4,7 @@
 El taller consiste en crear una abstraccion de una jarra, donde esta jarra tendrá un nivel máximo y un nivel mínimo al que se podra llenar.
 Los métodos que deberá contener la clase son los siguientes: 
 
-![enter image description here](https://img.freepik.com/vector-gratis/dos-jarras-agua_1308-6999.jpg?size=626&ext=jpg)
+![enter image description here](https://img.freepik.com/vector-gratis/dos-jarras-agua_1308-6999.jpg?size=426&ext=jpg)
 
 
  1. Método que permite definir el nivel máximo de la jarra.
